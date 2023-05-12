@@ -2387,10 +2387,6 @@ a *,
     margin-right: 5.556vw;
   }
 
-  .max-sm\:mt-\[3\.438vw\] {
-    margin-top: 3.438vw;
-  }
-
   .max-sm\:mt-cm-sm-10 {
     margin-top: 2.778vw;
   }
@@ -2409,6 +2405,10 @@ a *,
 
   .max-sm\:mt-cm-sm-50 {
     margin-top: 13.889vw;
+  }
+
+  .max-sm\:mt-cm-sm-54 {
+    margin-top: 15.000vw;
   }
 
   .max-sm\:mt-cm-sm-56 {
